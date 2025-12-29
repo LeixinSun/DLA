@@ -1,9 +1,9 @@
-# DLA-ICLR Project
+# DLA Project
 
 ## Repository Structure
 
 ```
-DLA-ICLR/
+DLA/
 ├── cras/          # Contextualized Role Adherence Score
 ├── sail/          # Surgical Alignment of Instruction Layers
 ```
@@ -39,7 +39,7 @@ SAIL's surgical approach uses specific configurations:
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd DLA-ICLR
+   cd DLA
    ```
 
 ### Setting up CRAS
